@@ -1,0 +1,5 @@
+# DevWebCamp
+
+La aplicación web DevWebCamp es una plataforma integral diseñada para gestionar eventos educativos especializados en el ámbito del desarrollo web. En ella se organizan talleres y conferencias impartidos por expertos reconocidos en la industria, brindando a los usuarios la oportunidad de aprender sobre tecnologías y tendencias actuales en el desarrollo web. <br>
+
+DevWebCamp no solo facilita la programación y organización de estos eventos, sino que también ofrece una solución completa para la venta y gestión de boletos, permitiendo a los participantes elegir entre asistir de manera presencial o virtual. La plataforma está enfocada en crear una experiencia fluida tanto para los organizadores como para los asistentes, optimizando el acceso a contenido educativo de alta calidad y ofreciendo diversas modalidades de participación según las necesidades de cada usuario. De igual manera, permite la creación de nuevos talleres, así como el registro de usuarios y ponentes de cada taller.
